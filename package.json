@@ -31,7 +31,5 @@
     "url": "https://github.com/medanat/mongoose-getters/issues"
   },
   "homepage": "https://github.com/medanat/mongoose-getters",
-  "dependencies": {
-
-  }
+  "dependencies": {}
 }
