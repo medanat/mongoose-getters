@@ -3,20 +3,35 @@
   "name": "mongoose-getters",
   "description": "A mongoose plugin that provides a general purpose interface for read queries.",
   "version": "0.0.1",
-  "tags":["mongodb", "mongoose"],
+  "tags": [
+    "mongodb",
+    "mongoose"
+  ],
+  "keywords": [
+    "mongoose-getters",
+    "mongodb",
+    "mongoose",
+    "web",
+    "interface"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/medanat/mongoose-getters.git"
   },
   "license": "MIT",
-  "main":"lib/mongoose-getters.js",
-
+  "main": "lib/mongoose-getters.js",
   "devDependencies": {
-    "mongoose":"3.8.x"
+    "mongoose": "3.8.x"
   },
   "engines": {
     "node": ">= 0.8.0"
   },
-  "scripts":{
+  "scripts": {},
+  "bugs": {
+    "url": "https://github.com/medanat/mongoose-getters/issues"
+  },
+  "homepage": "https://github.com/medanat/mongoose-getters",
+  "dependencies": {
+
   }
 }
