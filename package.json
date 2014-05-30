@@ -1,7 +1,7 @@
 {
   "author": "Yazan Medanat",
-  "name": "Mongoose Getters",
-  "description": "A mongoose plugin that provides an easy to use interface for read queries.",
+  "name": "mongoose-getters",
+  "description": "A mongoose plugin that provides a general purpose interface for read queries.",
   "version": "0.0.1",
   "tags":["mongodb", "mongoose"],
   "repository": {
@@ -10,9 +10,7 @@
   },
   "license": "MIT",
   "main":"lib/mongoose-getters.js",
-  "peerDependencies": {
-    "mongoose":"3.8.x"
-  },
+
   "devDependencies": {
     "mongoose":"3.8.x"
   },
